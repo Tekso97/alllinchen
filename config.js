@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '🫶'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -42,8 +42,8 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW so sehr?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "viel mehr, als du denkst 🚀💝",              // Shows when they go past 1000%
+        extreme: "WOOOOW so sehr?? 🥰🚀🫶",  // Shows when they go past 5000%
+        high: "viel mehr, als du denkst 🚀🫶",              // Shows when they go past 1000%
         normal: "sehr! 🥰"                           // Shows when they go past 100%
     },
 
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Oh wie schön 🎉",
         message: "Komm her und hol dein Geschenk ab, eine fette Umarmung",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁🫶🤗❤️"  // These will bounce around
     },
 
     // Color scheme for the website
