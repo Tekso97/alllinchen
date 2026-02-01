@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Magst du mich?",                                    // First interaction
             yesBtn: "Ja",                                             // Text for "Yes" button
             noBtn: "Nein",                                               // Text for "No" button
-               
+               secretAnswer: "Ich mag dich nicht nur! ❤️"           // Secret hover message
         },
         second: {
             text: "Wie sehr magst du mich?",                          // For the love meter
