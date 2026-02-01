@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "WOOOOW so sehr?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "viel mehr, als du denkst 🚀💝",              // Shows when they go past 1000%
         normal: "sehr! 🥰"                           // Shows when they go past 100%
     },
@@ -79,8 +79,8 @@ const CONFIG = {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dbkjjk2yr/video/upload/v1769961492/NF_-_Home_CeeNaija.com__xulxmm.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
+        startText: "🎵 Starte die Musik",        // Button text to start music
+        stopText: "🔇 Stopp",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
